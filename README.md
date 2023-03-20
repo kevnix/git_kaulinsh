@@ -8,7 +8,7 @@ pirmais github moments
 - [x] izveidots github konts
 - [x] githuba izveidots piramis repo
 - [x] lokalais projekts izgruzts github krātuvē
-- [ ] papildināt github repo un iegut lokalai lietosanai
+- [x] papildināt github repo un iegut lokalai lietosanai
 - [ ] projektam pievienot komandasbiedru
-- [ ] projekta ieviests jauns zars
-- [ ] veikta sapludināšana un noversts merge konflikts 
+- [x] projekta ieviests jauns zars
+- [ ] veikta komandsbiedru darba sapludināšana un noversts merge konflikts 
